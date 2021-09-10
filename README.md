@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MoAnas04
+- 👋 Hi, I’m Mohammed Anas Mansuri
 - 👀 I’m interested in python and web development
 - 🌱 I’m currently learning ReactJS
 - 💞️ I also love competetive programming
